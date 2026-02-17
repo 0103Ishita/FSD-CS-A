@@ -5,9 +5,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "NodeJs",
+    "Expressjs",
+    "Mongodb"
+  ],
+  "author": "Ishita Banshiwal",
   "license": "ISC",
-  "description": "",
-  "type": "module"
+  "description": "my first project",
+  "type": "module",
+  "dependencies": {
+    "nodemon": "^3.1.11"
+  }
 }
